@@ -1,1 +1,1 @@
-# elasticsearch-demos
+This repo contains Elasticsearch demos.

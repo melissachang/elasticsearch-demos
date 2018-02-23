@@ -1,0 +1,3 @@
+elasticsearch
+pandas
+pandas_gbq
